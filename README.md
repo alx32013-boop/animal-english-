@@ -237,5 +237,3 @@ showCard();
 </script>
 </body>
 </html>
-
-
